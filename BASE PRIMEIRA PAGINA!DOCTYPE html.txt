@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NP Digital</title>
+
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- HEADER / HERO -->
+    <header class="hero">
+
+        <!-- NAV -->
+        <nav class="nav">
+            <img src="logo.png" class="logo" alt="Logo NP Digital">
+
+            <ul class="menu">
+                <li>Início</li>
+                <li>Serviços</li>
+                <li>Sobre</li>
+                <li>Contato</li>
+            </ul>
+
+            <a href="https://wa.me/5573999413413" target="_blank" class="btn-contato">
+                Fale Conosco
+            </a>
+        </nav>
+
+        <!-- CONTEÚDO HERO -->
+        <div class="hero-content">
+
+            <div class="hero-texto">
+                <span class="mini-titulo">NP DIGITAL</span>
+
+                <h1>
+                    Transformando <br>
+                    ideias em <span>resultados!</span>
+                </h1>
+
+                <p>
+                    Ajudamos empresas e empreendedores a crescerem através da
+                    publicidade e design criativo.
+                </p>
+
+                <div class="hero-botoes">
+                    <a href="https://wa.me/5573999413413" target="_blank" class="btn-whats">
+                        WhatsApp
+                    </a>
+
+                    <a href="https://www.instagram.com/npdigital_publicidade" target="_blank" class="btn-insta">
+                        Instagram
+                    </a>
+                </div>
+            </div>
+
+            <!-- AVATAR -->
+            <img src="avatar.png" class="avatar" alt="Avatar NP Digital">
+
+        </div>
+
+        <!-- CURVA -->
+        <div class="curva"></div>
+
+    </header>
+
+
+    <!-- SOBRE -->
+    <section class="sobre">
+
+        <h2>Sobre Nós</h2>
+
+        <p>
+            A NP Digital atua no mercado há 4 anos, ajudando empresas
+            e empreendedores a crescerem através da publicidade e design criativo.
+        </p>
+
+        <button class="btn-servicos">
+            Conheça os nossos serviços
+        </button>
+
+    </section>
+
+</body>
+</html>
