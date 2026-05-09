@@ -262,3 +262,20 @@ body {
     }
 
 }
+
+@media (max-width: 768px){
+
+    .hero img{
+        width: 180px; /* diminui o boneco */
+        margin-top: 20px;
+    }
+
+}
+
+@media (max-width: 768px){
+
+    .sobre-home{
+        margin-top: -30px;
+    }
+
+}
