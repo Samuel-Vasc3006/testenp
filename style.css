@@ -248,26 +248,8 @@ body {
 }
 @media (max-width: 768px){
 
-    .header-home{
-        padding: 20px 15px 10px; /* diminui espaço */
-    }
-
-    .slogan-home{
-        font-size: 22px;
-        line-height: 1.2;
-    }
-
-    .hero{
-        padding-bottom: 40px; /* reduz altura da seção */
-    }
-
-}
-
-@media (max-width: 768px){
-
     .sobre-home{
         margin-top: -30px;
     }
 
 }
-
